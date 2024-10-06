@@ -1,0 +1,161 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "username": "alicej",
+    "email": "alice.johnson@example.com",
+    "age": 28,
+    "verified": true,
+    "role": "ADMIN",
+    "address": "123 Elm Street, Springfield",
+    "phone": "+1-555-1234",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4gg_D8uFRFRFiSilx1eTouqbrEpxHPKpOgg&s"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "username": "bobsmith",
+    "email": "bob.smith@example.com",
+    "age": 34,
+    "verified": true,
+    "role": "USER",
+    "address": "456 Oak Street, Metropolis",
+    "phone": "+1-555-5678",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4gg_D8uFRFRFiSilx1eTouqbrEpxHPKpOgg&s"
+  },
+  {
+    "id": 3,
+    "name": "Charlie Davis",
+    "username": "charlied",
+    "email": "charlie.davis@example.com",
+    "age": 24,
+    "verified": false,
+    "role": "MODERATOR",
+    "address": "789 Pine Street, Gotham",
+    "phone": "+1-555-9876",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4gg_D8uFRFRFiSilx1eTouqbrEpxHPKpOgg&s"
+  },
+  {
+    "id": 4,
+    "name": "Diana Prince",
+    "username": "dianap",
+    "email": "diana.prince@example.com",
+    "age": 30,
+    "verified": true,
+    "role": "USER",
+    "address": "1234 Maple Street, Star City",
+    "phone": "+1-555-4321",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4gg_D8uFRFRFiSilx1eTouqbrEpxHPKpOgg&s"
+  },
+  {
+    "id": 5,
+    "name": "Eve Turner",
+    "username": "evet",
+    "email": "eve.turner@example.com",
+    "age": 26,
+    "verified": false,
+    "role": "GUEST",
+    "address": "567 Birch Street, Central City",
+    "phone": "+1-555-8765",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4gg_D8uFRFRFiSilx1eTouqbrEpxHPKpOgg&s"
+  },
+  {
+    "id": 6,
+    "name": "Frank Castle",
+    "username": "frankc",
+    "email": "frank.castle@example.com",
+    "age": 40,
+    "verified": true,
+    "role": "ADMIN",
+    "address": "890 Cedar Street, Keystone City",
+    "phone": "+1-555-6543",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4gg_D8uFRFRFiSilx1eTouqbrEpxHPKpOgg&s"
+  },
+  {
+    "id": 7,
+    "name": "Grace Lee",
+    "username": "gracel",
+    "email": "grace.lee@example.com",
+    "age": 22,
+    "verified": false,
+    "role": "MODERATOR",
+    "address": "345 Palm Street, Coast City",
+    "phone": "+1-555-3456",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4gg_D8uFRFRFiSilx1eTouqbrEpxHPKpOgg&s"
+  },
+  {
+    "id": 8,
+    "name": "Henry Ford",
+    "username": "henryf",
+    "email": "henry.ford@example.com",
+    "age": 38,
+    "verified": true,
+    "role": "USER",
+    "address": "234 Poplar Street, Blüdhaven",
+    "phone": "+1-555-9871",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4gg_D8uFRFRFiSilx1eTouqbrEpxHPKpOgg&s"
+  },
+  {
+    "id": 9,
+    "name": "Isabella Cruz",
+    "username": "isabellac",
+    "email": "isabella.cruz@example.com",
+    "age": 29,
+    "verified": true,
+    "role": "USER",
+    "address": "456 Willow Street, Smallville",
+    "phone": "+1-555-5674",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4gg_D8uFRFRFiSilx1eTouqbrEpxHPKpOgg&s"
+  },
+  {
+    "id": 10,
+    "name": "Jack Ryan",
+    "username": "jackr",
+    "email": "jack.ryan@example.com",
+    "age": 35,
+    "verified": false,
+    "role": "GUEST",
+    "address": "789 Cypress Street, National City",
+    "phone": "+1-555-3210",
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4gg_D8uFRFRFiSilx1eTouqbrEpxHPKpOgg&s"
+  }
+,
+{
+   "id":11,
+   "name": "Ba",
+   "username":"bbb",
+   "email": "bre@grefv.com",
+   "age": 200,
+   "verified": true,
+   "role": "GUEST",
+   "address": "fffff",
+   "phone": "+0088443",
+   "avatar": "https://avatars.githubusercontent.com/u/65547734?v=4"
+    }
+,
+{
+   "id":12,
+   "name": "sdfg",
+   "username":"wefr",
+   "email": "wesrdfg@fs.sdf",
+   "age": 123,
+   "verified": true,
+   "role": "ADMIN",
+   "address": "wesrdf",
+   "phone": "waesrdfg",
+   "avatar": "wesrdfg"
+    }
+,
+{
+   "id":13,
+   "name": "sdfsd",
+   "username":"sdfsf",
+   "email": "sd@F.sdf",
+   "age": 4,
+   "verified": true,
+   "role": "ADMIN",
+   "address": "des",
+   "phone": "23r4ewr",
+   "avatar": "sde"
+    }
+]
